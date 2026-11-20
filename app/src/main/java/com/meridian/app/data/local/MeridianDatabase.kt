@@ -4,6 +4,19 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
+import com.meridian.app.data.local.Dao.CalendarDao
+import com.meridian.app.data.local.Dao.ClockEventDao
+import com.meridian.app.data.local.Dao.HolidayDao
+import com.meridian.app.data.local.Dao.OfficePlanDao
+import com.meridian.app.data.local.Dao.TeamDao
+import com.meridian.app.data.local.Entities.ClockEventEntity
+import com.meridian.app.data.local.Entities.TeamEntity
+import com.meridian.app.data.local.Entities.TeamMemberEntity
+import com.meridian.app.data.local.Entities.CalendarSlotEntity
+import com.meridian.app.data.local.Entities.HolidayEntity
+import com.meridian.app.data.local.Entities.OfficePlanEntity
+
+
 
 @Database(
     entities = [

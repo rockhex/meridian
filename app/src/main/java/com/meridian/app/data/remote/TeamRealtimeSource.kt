@@ -2,6 +2,7 @@ package com.meridian.app.data.remote
 
 import com.google.gson.Gson
 import com.meridian.app.BuildConfig
+import com.meridian.app.data.remote.Dto.MemberDto
 import com.meridian.app.data.security.KeystoreTokenStore
 import kotlinx.coroutines.channels.awaitClose
 import kotlinx.coroutines.delay

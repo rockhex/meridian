@@ -1,5 +1,10 @@
 package com.meridian.app.data.local
 
+import com.meridian.app.data.local.Entities.CalendarSlotEntity
+import com.meridian.app.data.local.Entities.ClockEventEntity
+import com.meridian.app.data.local.Entities.HolidayEntity
+import com.meridian.app.data.local.Entities.TeamEntity
+import com.meridian.app.data.local.Entities.TeamMemberEntity
 import com.meridian.app.domain.model.*
 import java.time.DayOfWeek
 import java.time.Instant

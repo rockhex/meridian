@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_background">#2D4F5E</color>
+    <string name="app_name">Meridian</string>
+    <string name="widget_description">Fichá tu jornada con un toque</string>
+    <style name="Theme.Meridian" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

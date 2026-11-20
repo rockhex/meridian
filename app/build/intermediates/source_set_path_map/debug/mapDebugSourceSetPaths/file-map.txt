@@ -1,0 +1,77 @@
+com.meridian.app-core-runtime-2.2.0-0 C:\Users\sifer\.gradle\caches\8.9\transforms\002ce8f4e2f207b5b36082d184166506\transformed\core-runtime-2.2.0\res
+com.meridian.app-play-services-basement-18.4.0-1 C:\Users\sifer\.gradle\caches\8.9\transforms\015dbbc535b2bd17b3ebd37eb11a9235\transformed\play-services-basement-18.4.0\res
+com.meridian.app-credentials-1.3.0-2 C:\Users\sifer\.gradle\caches\8.9\transforms\04733ebb4db9cbfcc5cec973b725dade\transformed\credentials-1.3.0\res
+com.meridian.app-activity-1.9.2-3 C:\Users\sifer\.gradle\caches\8.9\transforms\0499ce6ad330ace7f26e74435687d492\transformed\activity-1.9.2\res
+com.meridian.app-material-release-4 C:\Users\sifer\.gradle\caches\8.9\transforms\04f3fde4926a495c5ba34d8c7946e0a9\transformed\material-release\res
+com.meridian.app-ui-graphics-release-5 C:\Users\sifer\.gradle\caches\8.9\transforms\0c2769fb651b000baa514d683eaa1025\transformed\ui-graphics-release\res
+com.meridian.app-navigation-common-2.8.2-6 C:\Users\sifer\.gradle\caches\8.9\transforms\0c6b3e0197706b2ce97feda7738d820a\transformed\navigation-common-2.8.2\res
+com.meridian.app-graphics-path-1.0.1-7 C:\Users\sifer\.gradle\caches\8.9\transforms\121e3592df9c0bc61b75a517c0591c49\transformed\graphics-path-1.0.1\res
+com.meridian.app-customview-poolingcontainer-1.0.0-8 C:\Users\sifer\.gradle\caches\8.9\transforms\1222c6bf8eb0d28fbdc24b3006d31be8\transformed\customview-poolingcontainer-1.0.0\res
+com.meridian.app-startup-runtime-1.1.1-9 C:\Users\sifer\.gradle\caches\8.9\transforms\1320fc42c8a4caeb5a821c03139954dc\transformed\startup-runtime-1.1.1\res
+com.meridian.app-core-ktx-1.13.1-10 C:\Users\sifer\.gradle\caches\8.9\transforms\1c54ec41d80e809aab4a902d960f99f1\transformed\core-ktx-1.13.1\res
+com.meridian.app-sqlite-framework-2.4.0-11 C:\Users\sifer\.gradle\caches\8.9\transforms\21ea985a73651e130e0f67623610c54d\transformed\sqlite-framework-2.4.0\res
+com.meridian.app-lifecycle-runtime-compose-release-12 C:\Users\sifer\.gradle\caches\8.9\transforms\222e1046fc139182aab1da17a9e5ca35\transformed\lifecycle-runtime-compose-release\res
+com.meridian.app-sqlite-2.4.0-13 C:\Users\sifer\.gradle\caches\8.9\transforms\2657555507314ed1e9e83dc0c3158fec\transformed\sqlite-2.4.0\res
+com.meridian.app-room-ktx-2.6.1-14 C:\Users\sifer\.gradle\caches\8.9\transforms\29463f5cf46c7a7731676d5703e15dfa\transformed\room-ktx-2.6.1\res
+com.meridian.app-glance-appwidget-1.1.0-15 C:\Users\sifer\.gradle\caches\8.9\transforms\2b5439e68acab82363b1d8f898169589\transformed\glance-appwidget-1.1.0\res
+com.meridian.app-runtime-release-16 C:\Users\sifer\.gradle\caches\8.9\transforms\2c1b56210d5099fcad4407cdc0149c26\transformed\runtime-release\res
+com.meridian.app-work-runtime-ktx-2.9.1-17 C:\Users\sifer\.gradle\caches\8.9\transforms\2d62504679c7f30225469838224ea931\transformed\work-runtime-ktx-2.9.1\res
+com.meridian.app-navigation-compose-2.8.2-18 C:\Users\sifer\.gradle\caches\8.9\transforms\2f53457774a584d9bd619163f4557692\transformed\navigation-compose-2.8.2\res
+com.meridian.app-lifecycle-viewmodel-ktx-2.8.6-19 C:\Users\sifer\.gradle\caches\8.9\transforms\303df43eeed3f9d2d25e61f5732e012e\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.meridian.app-navigation-runtime-ktx-2.8.2-20 C:\Users\sifer\.gradle\caches\8.9\transforms\324a3623ffb9aa14022f7e0f61920075\transformed\navigation-runtime-ktx-2.8.2\res
+com.meridian.app-material-icons-core-release-21 C:\Users\sifer\.gradle\caches\8.9\transforms\33b636c2f8039ee99ce94a4a96ca7b57\transformed\material-icons-core-release\res
+com.meridian.app-material3-release-22 C:\Users\sifer\.gradle\caches\8.9\transforms\351db5de50ec1ebff863119db5bbd75b\transformed\material3-release\res
+com.meridian.app-lifecycle-livedata-core-2.8.6-23 C:\Users\sifer\.gradle\caches\8.9\transforms\38f2e08a9d8c9aa8ecd66b8c7172b36d\transformed\lifecycle-livedata-core-2.8.6\res
+com.meridian.app-datastore-preferences-release-24 C:\Users\sifer\.gradle\caches\8.9\transforms\3a07f9661fdc783a204d4398d7fe0f1f\transformed\datastore-preferences-release\res
+com.meridian.app-savedstate-ktx-1.2.1-25 C:\Users\sifer\.gradle\caches\8.9\transforms\40ab5143df625c3ab7e37e6b393bc61e\transformed\savedstate-ktx-1.2.1\res
+com.meridian.app-datastore-core-release-26 C:\Users\sifer\.gradle\caches\8.9\transforms\42773adfd54dd94b38b752d28dfbdb84\transformed\datastore-core-release\res
+com.meridian.app-fragment-1.5.7-27 C:\Users\sifer\.gradle\caches\8.9\transforms\449f601de37d0f62a9946ee42fd33328\transformed\fragment-1.5.7\res
+com.meridian.app-savedstate-1.2.1-28 C:\Users\sifer\.gradle\caches\8.9\transforms\45273a661132eacc75f2c89b2705705c\transformed\savedstate-1.2.1\res
+com.meridian.app-foundation-release-29 C:\Users\sifer\.gradle\caches\8.9\transforms\461e732e1a61804dedebb946b427861d\transformed\foundation-release\res
+com.meridian.app-animation-release-30 C:\Users\sifer\.gradle\caches\8.9\transforms\48221b868e83ec965692d1bbf4ce2125\transformed\animation-release\res
+com.meridian.app-datastore-release-31 C:\Users\sifer\.gradle\caches\8.9\transforms\52f0c62f7d8aa86cf531fe2edc131dbd\transformed\datastore-release\res
+com.meridian.app-material-icons-extended-release-32 C:\Users\sifer\.gradle\caches\8.9\transforms\5346bdc653d0ebe9b20b1dab0b12db07\transformed\material-icons-extended-release\res
+com.meridian.app-room-runtime-2.6.1-33 C:\Users\sifer\.gradle\caches\8.9\transforms\5487c1207e40371fc35f4934728b92b6\transformed\room-runtime-2.6.1\res
+com.meridian.app-annotation-experimental-1.4.1-34 C:\Users\sifer\.gradle\caches\8.9\transforms\5887053bbdf68fb2ae04a7492d547ac7\transformed\annotation-experimental-1.4.1\res
+com.meridian.app-work-runtime-2.9.1-35 C:\Users\sifer\.gradle\caches\8.9\transforms\5ee4a9e91bff9fb6f9fb97147abc0482\transformed\work-runtime-2.9.1\res
+com.meridian.app-glance-material3-1.1.0-36 C:\Users\sifer\.gradle\caches\8.9\transforms\60ba2c18ce64b1004409594b842a7832\transformed\glance-material3-1.1.0\res
+com.meridian.app-glance-1.1.0-37 C:\Users\sifer\.gradle\caches\8.9\transforms\63878cd72a020aa0c770b46dbc460682\transformed\glance-1.1.0\res
+com.meridian.app-lifecycle-viewmodel-savedstate-2.8.6-38 C:\Users\sifer\.gradle\caches\8.9\transforms\69a53938029ed90a139831998a483ec6\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.meridian.app-credentials-play-services-auth-1.3.0-39 C:\Users\sifer\.gradle\caches\8.9\transforms\6a6bab469f7925d8f54eb8aa074a7a36\transformed\credentials-play-services-auth-1.3.0\res
+com.meridian.app-ui-geometry-release-40 C:\Users\sifer\.gradle\caches\8.9\transforms\6baadaacd3e7c9a1a9d1cb526f927336\transformed\ui-geometry-release\res
+com.meridian.app-lifecycle-service-2.8.6-41 C:\Users\sifer\.gradle\caches\8.9\transforms\6e14f48d00af7963de54f14fe7036374\transformed\lifecycle-service-2.8.6\res
+com.meridian.app-ui-util-release-42 C:\Users\sifer\.gradle\caches\8.9\transforms\714312f950e0118f16b5d8161de5e736\transformed\ui-util-release\res
+com.meridian.app-lifecycle-viewmodel-compose-release-43 C:\Users\sifer\.gradle\caches\8.9\transforms\720570bfa2fb194f0896590090c72bf9\transformed\lifecycle-viewmodel-compose-release\res
+com.meridian.app-material-ripple-release-44 C:\Users\sifer\.gradle\caches\8.9\transforms\73de552c9b1d5cb1632fa9fdc65091a3\transformed\material-ripple-release\res
+com.meridian.app-animation-core-release-45 C:\Users\sifer\.gradle\caches\8.9\transforms\74da402819099a632958839842ae62fa\transformed\animation-core-release\res
+com.meridian.app-ui-tooling-preview-release-46 C:\Users\sifer\.gradle\caches\8.9\transforms\80c03fa43df8aa4e1a9371b4e1213439\transformed\ui-tooling-preview-release\res
+com.meridian.app-lifecycle-runtime-release-47 C:\Users\sifer\.gradle\caches\8.9\transforms\831c84ff91cb2e8f1a22e283c3ea0510\transformed\lifecycle-runtime-release\res
+com.meridian.app-emoji2-1.3.0-48 C:\Users\sifer\.gradle\caches\8.9\transforms\9a274a2a957429695ecb63a59b873a23\transformed\emoji2-1.3.0\res
+com.meridian.app-foundation-layout-release-49 C:\Users\sifer\.gradle\caches\8.9\transforms\9d276d3fd7124e6919dbfad41d34e959\transformed\foundation-layout-release\res
+com.meridian.app-lifecycle-viewmodel-release-50 C:\Users\sifer\.gradle\caches\8.9\transforms\9fc133d6da6a662406fa6632ccc79314\transformed\lifecycle-viewmodel-release\res
+com.meridian.app-ui-release-51 C:\Users\sifer\.gradle\caches\8.9\transforms\a9deed5adf335097f08a7ad1d0a257e8\transformed\ui-release\res
+com.meridian.app-activity-ktx-1.9.2-52 C:\Users\sifer\.gradle\caches\8.9\transforms\abe5c64c517f71b58c292adee0bde66b\transformed\activity-ktx-1.9.2\res
+com.meridian.app-ui-tooling-data-release-53 C:\Users\sifer\.gradle\caches\8.9\transforms\ad31d95daf6c5d25830f62bbdb5c2415\transformed\ui-tooling-data-release\res
+com.meridian.app-lifecycle-process-2.8.6-54 C:\Users\sifer\.gradle\caches\8.9\transforms\b99f02477e362afaf51cd0e38fe96869\transformed\lifecycle-process-2.8.6\res
+com.meridian.app-lifecycle-livedata-core-ktx-2.8.6-55 C:\Users\sifer\.gradle\caches\8.9\transforms\bfd1c7a21b52236e79a2a9c155c9c958\transformed\lifecycle-livedata-core-ktx-2.8.6\res
+com.meridian.app-runtime-saveable-release-56 C:\Users\sifer\.gradle\caches\8.9\transforms\c7c773eb8f27e3a514a2d86524f32dbe\transformed\runtime-saveable-release\res
+com.meridian.app-core-1.13.1-57 C:\Users\sifer\.gradle\caches\8.9\transforms\c7dc74a917703b6d8bdc3c44ef455ac6\transformed\core-1.13.1\res
+com.meridian.app-core-remoteviews-1.1.0-58 C:\Users\sifer\.gradle\caches\8.9\transforms\c96d344d83a488cb90b1d56af5a68e11\transformed\core-remoteviews-1.1.0\res
+com.meridian.app-ui-unit-release-59 C:\Users\sifer\.gradle\caches\8.9\transforms\cd23726d62707da89e81540baff104d7\transformed\ui-unit-release\res
+com.meridian.app-ui-tooling-release-60 C:\Users\sifer\.gradle\caches\8.9\transforms\db18ee178a87e756461deafafdd7a368\transformed\ui-tooling-release\res
+com.meridian.app-play-services-auth-21.1.1-61 C:\Users\sifer\.gradle\caches\8.9\transforms\dd90a81e41dbedbc4e6b25c0692fa830\transformed\play-services-auth-21.1.1\res
+com.meridian.app-lifecycle-livedata-2.8.6-62 C:\Users\sifer\.gradle\caches\8.9\transforms\e0cb0c6c9f67e2055a34a210fab81c99\transformed\lifecycle-livedata-2.8.6\res
+com.meridian.app-activity-compose-1.9.2-63 C:\Users\sifer\.gradle\caches\8.9\transforms\e572eb510d0da642e6b219268325dbfb\transformed\activity-compose-1.9.2\res
+com.meridian.app-navigation-common-ktx-2.8.2-64 C:\Users\sifer\.gradle\caches\8.9\transforms\ea9910a4b6eb9d0e686670918ea481e0\transformed\navigation-common-ktx-2.8.2\res
+com.meridian.app-navigation-runtime-2.8.2-65 C:\Users\sifer\.gradle\caches\8.9\transforms\f5764b6998ee693fc2bcf0c64610d2a0\transformed\navigation-runtime-2.8.2\res
+com.meridian.app-play-services-base-18.5.0-66 C:\Users\sifer\.gradle\caches\8.9\transforms\fb9c8bc3716a69bda7ce6e6ef47b98af\transformed\play-services-base-18.5.0\res
+com.meridian.app-profileinstaller-1.3.1-67 C:\Users\sifer\.gradle\caches\8.9\transforms\fdf8f5c189ad3ce7d4c03c6c04bdaa09\transformed\profileinstaller-1.3.1\res
+com.meridian.app-lifecycle-runtime-ktx-release-68 C:\Users\sifer\.gradle\caches\8.9\transforms\fe783a84959ddd3ebed22f2e65b52cc3\transformed\lifecycle-runtime-ktx-release\res
+com.meridian.app-ui-text-release-69 C:\Users\sifer\.gradle\caches\8.9\transforms\fe9354f7606535e43c2efe8e12f6880f\transformed\ui-text-release\res
+com.meridian.app-pngs-70 C:\Users\sifer\Desktop\maxi\Facultad\Desarollo de app\meridian\app\build\generated\res\pngs\debug
+com.meridian.app-resValues-71 C:\Users\sifer\Desktop\maxi\Facultad\Desarollo de app\meridian\app\build\generated\res\resValues\debug
+com.meridian.app-packageDebugResources-72 C:\Users\sifer\Desktop\maxi\Facultad\Desarollo de app\meridian\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.meridian.app-packageDebugResources-73 C:\Users\sifer\Desktop\maxi\Facultad\Desarollo de app\meridian\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.meridian.app-debug-74 C:\Users\sifer\Desktop\maxi\Facultad\Desarollo de app\meridian\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.meridian.app-debug-75 C:\Users\sifer\Desktop\maxi\Facultad\Desarollo de app\meridian\app\src\debug\res
+com.meridian.app-main-76 C:\Users\sifer\Desktop\maxi\Facultad\Desarollo de app\meridian\app\src\main\res
