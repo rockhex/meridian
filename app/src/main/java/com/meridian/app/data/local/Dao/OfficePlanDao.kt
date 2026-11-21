@@ -3,7 +3,7 @@ package com.meridian.app.data.local.Dao
 import androidx.room.Dao
 import androidx.room.Query
 import androidx.room.Upsert
-import com.meridian.app.data.local.OfficePlanEntity
+import com.meridian.app.data.local.Entities.OfficePlanEntity
 import kotlinx.coroutines.flow.Flow
 
 @Dao

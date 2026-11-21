@@ -1,7 +1,14 @@
 package com.meridian.app.data.remote
 
 import com.meridian.app.BuildConfig
+import com.meridian.app.data.remote.Dto.CalendarSlotDto
+import com.meridian.app.data.remote.Dto.ClockEventDto
+import com.meridian.app.data.remote.Dto.HolidayDto
+import com.meridian.app.data.remote.Dto.PlanDto
+import com.meridian.app.data.remote.Dto.SessionDto
+import com.meridian.app.data.remote.Dto.TeamDto
 import com.meridian.app.data.security.KeystoreTokenStore
+import com.meridian.app.data.remote.Dto.*
 import okhttp3.OkHttpClient
 import retrofit2.HttpException
 import retrofit2.Retrofit

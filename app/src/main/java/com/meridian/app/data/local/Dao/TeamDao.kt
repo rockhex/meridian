@@ -3,8 +3,9 @@ package com.meridian.app.data.local.Dao
 import androidx.room.Dao
 import androidx.room.Query
 import androidx.room.Upsert
-import com.meridian.app.data.local.TeamEntity
-import com.meridian.app.data.local.TeamMemberEntity
+import com.meridian.app.data.local.Entities.TeamEntity
+import com.meridian.app.data.local.Entities.TeamMemberEntity
+
 import kotlinx.coroutines.flow.Flow
 
 @Dao

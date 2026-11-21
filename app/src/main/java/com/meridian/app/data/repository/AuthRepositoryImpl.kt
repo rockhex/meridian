@@ -19,7 +19,7 @@ import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.map
 import java.io.IOException
-
+import com.meridian.app.data.remote.Dto.*
 class AuthRepositoryImpl(
     private val dataStore: DataStore<Preferences>,
     private val remote: RemoteDataSource,

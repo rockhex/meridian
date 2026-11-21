@@ -3,7 +3,7 @@ package com.meridian.app.data.local.Dao
 import androidx.room.Dao
 import androidx.room.Query
 import androidx.room.Upsert
-import com.meridian.app.data.local.HolidayEntity
+import com.meridian.app.data.local.Entities.HolidayEntity
 import kotlinx.coroutines.flow.Flow
 
 @Dao

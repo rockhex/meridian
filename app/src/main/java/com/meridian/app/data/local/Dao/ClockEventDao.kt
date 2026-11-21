@@ -4,7 +4,7 @@ import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.meridian.app.data.local.ClockEventEntity
+import com.meridian.app.data.local.Entities.ClockEventEntity
 import com.meridian.app.domain.model.SyncState
 import kotlinx.coroutines.flow.Flow
 
